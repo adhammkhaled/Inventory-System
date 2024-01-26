@@ -1,0 +1,7 @@
+P001,Big Cola,Ajegroup,Amazon,6,5.0
+P002,Tiger,Egypt Foods Group,Amazon,15,6.5
+P003,Corona Chocolate,Corona Company,Amazon,18,10.0
+P004,Molto,Edita Food Industries,Amazon,23,10.0
+P005,V7,Benefits,Talabat Market,0,11.95
+P006,Spiro Spathis,Spiro Spathis Company,Talabat Market,0,12.49
+P007,Freska Choco Bar,Edita Food Industries,Breadfast,13,3.25

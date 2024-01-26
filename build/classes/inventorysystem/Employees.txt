@@ -1,0 +1,6 @@
+EMP-001,Clark,clark@email.com,Luton,+20-01234578
+EMP-002,Stewart,stewart@email.com,Irvine,+30-06985210
+EMP-003,Bowen,bowen@email.com,Bristol,+17-01935267
+EMP-004,Ward,ward@email.com,Leicester,+71-02582564
+EMP-005,Nicolas,nicolas@email.com,Madrid,+34-01235411
+EMP-006,John,john@email.com,Manchester,+20-78987571

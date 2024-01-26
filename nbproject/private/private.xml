@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/adham/Documents/NetBeansProjects/InventorySystem/src/inventorysystem/backend/ProductDatabase.java</file>
+            <file>file:/C:/Users/adham/Documents/NetBeansProjects/InventorySystem/src/inventorysystem/frontend/AdminLogin.java</file>
+            <file>file:/C:/Users/adham/Documents/NetBeansProjects/InventorySystem/src/inventorysystem/constants/FileNames.java</file>
+            <file>file:/C:/Users/adham/Documents/NetBeansProjects/InventorySystem/src/inventorysystem/constants/LoginCredentials.java</file>
+            <file>file:/C:/Users/adham/Documents/NetBeansProjects/InventorySystem/src/inventorysystem/backend/EmployeeUserDatabase.java</file>
+            <file>file:/C:/Users/adham/Documents/NetBeansProjects/InventorySystem/src/inventorysystem/backend/Product.java</file>
+            <file>file:/C:/Users/adham/Documents/NetBeansProjects/InventorySystem/src/inventorysystem/frontend/TableViewPurchasedProduct.java</file>
+            <file>file:/C:/Users/adham/Documents/NetBeansProjects/InventorySystem/src/inventorysystem/backend/CustomerProduct.java</file>
+            <file>file:/C:/Users/adham/Documents/NetBeansProjects/InventorySystem/src/inventorysystem/InventorySystem.java</file>
+            <file>file:/C:/Users/adham/Documents/NetBeansProjects/InventorySystem/src/inventorysystem/backend/EmployeeRole.java</file>
+            <file>file:/C:/Users/adham/Documents/NetBeansProjects/InventorySystem/src/inventorysystem/frontend/AddProductFrame.java</file>
+            <file>file:/C:/Users/adham/Documents/NetBeansProjects/InventorySystem/src/inventorysystem/frontend/TableViewProduct.java</file>
+            <file>file:/C:/Users/adham/Documents/NetBeansProjects/InventorySystem/src/inventorysystem/backend/EmployeeUser.java</file>
+            <file>file:/C:/Users/adham/Documents/NetBeansProjects/InventorySystem/src/inventorysystem/frontend/TableViewEmployee.java</file>
+            <file>file:/C:/Users/adham/Documents/NetBeansProjects/InventorySystem/src/inventorysystem/backend/CustomerProductDatabase.java</file>
+            <file>file:/C:/Users/adham/Documents/NetBeansProjects/InventorySystem/src/inventorysystem/backend/RecordInterface.java</file>
+            <file>file:/C:/Users/adham/Documents/NetBeansProjects/InventorySystem/src/inventorysystem/frontend/AdminFrame.java</file>
+            <file>file:/C:/Users/adham/Documents/NetBeansProjects/InventorySystem/src/inventorysystem/frontend/AddEmployeeFrame.java</file>
+            <file>file:/C:/Users/adham/Documents/NetBeansProjects/InventorySystem/src/inventorysystem/frontend/EmployeeLogin.java</file>
+            <file>file:/C:/Users/adham/Documents/NetBeansProjects/InventorySystem/src/inventorysystem/backend/AdminRole.java</file>
+            <file>file:/C:/Users/adham/Documents/NetBeansProjects/InventorySystem/src/inventorysystem/frontend/PurchaseProductFrame.java</file>
+            <file>file:/C:/Users/adham/Documents/NetBeansProjects/InventorySystem/src/inventorysystem/frontend/RemoveEmployeeFrame.java</file>
+            <file>file:/C:/Users/adham/Documents/NetBeansProjects/InventorySystem/src/inventorysystem/Products.txt</file>
+            <file>file:/C:/Users/adham/Documents/NetBeansProjects/InventorySystem/src/inventorysystem/backend/Database.java</file>
+            <file>file:/C:/Users/adham/Documents/NetBeansProjects/InventorySystem/src/inventorysystem/frontend/SystemFrame.java</file>
+            <file>file:/C:/Users/adham/Documents/NetBeansProjects/InventorySystem/src/inventorysystem/frontend/Node.java</file>
+            <file>file:/C:/Users/adham/Documents/NetBeansProjects/InventorySystem/src/inventorysystem/frontend/EmployeeFrame.java</file>
+            <file>file:/C:/Users/adham/Documents/NetBeansProjects/InventorySystem/src/inventorysystem/frontend/ReturnProductFrame.java</file>
+        </group>
+    </open-files>
+</project-private>
